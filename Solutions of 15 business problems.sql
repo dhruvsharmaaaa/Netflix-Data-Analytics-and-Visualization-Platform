@@ -1,6 +1,8 @@
+
 -- Netflix Data Analysis using SQL
 -- Solutions of 15 business problems
 -- 1. Count the number of Movies vs TV Shows
+
 
 SELECT 
 	type,
@@ -82,7 +84,7 @@ FROM
 SELECT 
 	*,
 	UNNEST(STRING_TO_ARRAY(director, ',')) as director_name
-FROM 
+FROM  
 netflix
 )
 WHERE 
