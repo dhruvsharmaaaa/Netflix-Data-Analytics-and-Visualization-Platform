@@ -44,7 +44,11 @@ The data for this project is sourced from the Kaggle dataset: - **Dataset Link:*
    - Movie Percentage
    - Countries Represented
    - Avg Movie Duration (in mins)
-   
+  
+
+## PostgreSQL queries for all advanced sheets:
+<img width="346" height="301" alt="image" src="https://github.com/user-attachments/assets/52dad5fa-015a-4cdb-bf9e-dba3d02ba50e" />
+
 
 ## Business Problems and Solutions
 
