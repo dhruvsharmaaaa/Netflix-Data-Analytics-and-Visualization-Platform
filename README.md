@@ -32,6 +32,20 @@ The data for this project is sourced from the Kaggle dataset: - **Dataset Link:*
 ## Schema
 <img width="503" height="344" alt="image" src="https://github.com/user-attachments/assets/a6c1b45b-c0d5-45b8-b7ae-d475ac83d626" />
 
+## Sheets Built
+1. Content growth over years
+2. Country-wise content map
+3. Top 5 Genre by popularity
+4. Movie vs TV ratio donut
+5. Top 10 Ratings distribution
+6. Top 10 directors
+7. Global KPI calculated fields
+   - Total Titles
+   - Movie Percentage
+   - Countries Represented
+   - Avg Movie Duration (in mins)
+   
+
 ## Business Problems and Solutions
 
 ### 1. Count the Number of Movies vs TV Shows
