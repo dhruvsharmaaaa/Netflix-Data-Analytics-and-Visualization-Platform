@@ -22,6 +22,9 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Live Dashboard
 View on Tableau Public: -**Link:** [Tableau Public Link](https://public.tableau.com/app/profile/dhruv.sharma8302/viz/NetflixDashboard_17801640607900/NetfixDatabaseDashboard?publish=yes) 
 
+## Dashboard Preview
+<img width="1049" height="803" alt="image" src="https://github.com/user-attachments/assets/0b4f33d9-3634-404d-9ed3-d592f2c026a6" />
+
 ## Dataset
 
 The data for this project is sourced from the Kaggle dataset: - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
