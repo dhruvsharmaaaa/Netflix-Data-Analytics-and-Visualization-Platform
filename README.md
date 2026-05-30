@@ -13,7 +13,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Explore and categorize content based on specific criteria and keywords.
 
 ## Live Dashboard
-View on Tableau Public: -**Link:** (https://public.tableau.com/app/profile/dhruv.sharma8302/viz/NetflixDashboard_17801640607900/NetfixDatabaseDashboard?publish=yes) 
+View on Tableau Public: -**Link:** [Tableau Public Link](https://public.tableau.com/app/profile/dhruv.sharma8302/viz/NetflixDashboard_17801640607900/NetfixDatabaseDashboard?publish=yes) 
 
 ## Dataset
 
